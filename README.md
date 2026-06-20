@@ -22,7 +22,7 @@ A simple Python console program that takes student names and subject marks as in
 - Build a GUI version using Tkinter
 - Add support for any number of subjects
 
-## Author
+## 👩‍💻 Author
 
 **Sneha Mandlik**
 Fresher Data Analyst | Python | SQL | Power BI | Excel | Mumbai
