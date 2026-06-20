@@ -14,6 +14,24 @@ Displays marksheet for all students
 Language: Python 
 Concepts: Loops, Dictionaries, Lists, User Input, String Formatting
 
+📋 Sample Output
+Enter number of students: 3
+
+Enter student name: Sneha
+Enter marks for subject 1: 85
+Enter marks for subject 2: 90
+Enter marks for subject 3: 78
+
+Enter student name: Amruta
+Enter marks for subject 1: 72
+Enter marks for subject 2: 88
+Enter marks for subject 3: 91
+
+--- Student Marksheet ---
+Sneha  => Marks: [85, 90, 78],  Total: 253,  Average: 84.33
+Amruta => Marks: [72, 88, 91],  Total: 251,  Average: 83.67
+
+
 🔮 Future Improvements
 
  1) Add grade calculation (A/B/C/D/F)
