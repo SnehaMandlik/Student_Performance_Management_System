@@ -12,7 +12,7 @@ A simple Python console program that takes student names and subject marks as in
 ## 🛠️ Tools Used
 
 **Language**: Python 
-**Concepts**: Loops, Dictionaries, Lists, User Input, String Formatting
+- **Concepts**: Loops, Dictionaries, Lists, User Input, String Formatting
 
 ## 🔮 Future Improvements
 
